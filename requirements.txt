@@ -1,0 +1,15 @@
+fastapi
+uvicorn
+langchain
+langchain-community
+langchain-groq
+langgraph
+gradio
+beautifulsoup4
+pydantic
+python-dotenv
+pypdf
+langchain-google-genai
+duckduckgo-search
+
+
